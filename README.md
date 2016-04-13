@@ -6,6 +6,3 @@ The Sassy Riddler is a REPL game that takes a player through a series of riddles
 
 The code showcases methods and loops learned after only a week of studying the Ruby language. 
 
-
-#Christina's Fork of her REPL game.
-===================================
